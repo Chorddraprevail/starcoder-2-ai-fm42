@@ -1,4 +1,4 @@
-# 
+# Código aberto StarCoder 2 ferramentas. Com UI personalizável e código aberto — otimizado para máximo desempenho e eficiência.
 
 
 
